@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+bin/
+*.o
+*.a
+*.so
+
+# Test artifacts
+*.gcda
+*.gcno
+*.gcov
+
+# Editor / OS
+.vscode/
+.idea/
+*~
+.DS_Store
